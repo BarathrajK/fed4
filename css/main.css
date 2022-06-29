@@ -1,0 +1,141 @@
+.header {
+    background-color: blueviolet;
+    margin-left: -221px;
+    margin-right: auto;
+    width: 1300px;
+    padding-left: 271px;
+    padding-top: 74px;
+}
+h1 {
+    color: orangered;
+    font-size: 25px;
+}
+
+.section-title {
+    font-size: 25px;
+    color: orangered;
+    margin-top: 20px;
+    margin-left: 52px;
+    position: relative;
+}
+.pro1 {
+    color: orangered;
+}
+
+.p {
+    color: black;
+    font-size: 18px;
+    padding-top: 12px;
+    padding-bottom: 25px;
+    line-height: 25px;
+    margin-left: 0px;
+}
+nav {
+    background-color: orangered;
+    width: 1350px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 46px;
+    display: inline-block;
+}
+.content {
+    font-size: 20px;
+    padding-top: 20px;
+}
+.tag-container {
+    padding-left: 280px;
+    padding-top: 17px;
+    word-spacing: 10px;
+}
+.tag-container .tag {
+    background-color:black;
+    color:white;
+    font-size: 18px;
+    display: inline-block;
+    text-align: center;
+    padding-left: 230px;
+    padding-right: 8px;
+    padding: 5px 12px 5px 12px;
+    border-radius: 6px;
+    font-size: 25px;
+}
+.key-skills {
+    color: orangered;
+    margin-top: 35px;
+    margin-left: 52px;
+    font-size: 25px;  
+}
+.section-title1 {
+    color: orangered;
+    margin-top: 20px;
+    margin-left: 272px;
+}
+.section-title1 .tag1 {
+    background-color: black;
+    color:white;
+    display: inline-block;
+    text-align: center;
+    padding-left: 180px;
+    padding-right: 8px;
+    padding: 5px 12px 5px 12px;
+    border-radius: 6px;
+}
+.h2{
+    color: orangered;
+    margin-top: 20px;
+    margin-left: 51px;
+    font-size: 25px;
+}
+.quality {
+    color: orangered;
+    margin-top: 32px;
+    padding-left: 51px;
+    font-size: 22px;
+}
+.date{
+    text-align: end;
+}
+.qc{
+    font-size: 20px;
+    margin-left: 113px;
+    margin-top: 10px;
+} 
+  .red-box{
+    height: 47px;
+    width: 36px;
+    background-color: orangered;
+    position: absolute;
+    left: 6px;
+    top: 267px;
+}
+.red-box2{
+    height: 46px;
+    width: 36px;
+    background-color: orangered;
+    position: absolute;
+    left: -55px;
+    top: -12px;
+}
+.red-box3{
+    height: 46px;
+    width: 36px;
+    background-color: orangered;
+    position: absolute;
+    left: 7px;
+    margin-top: -13px;
+}
+.red-box4{
+    height: 46px;
+    width: 36px;
+    background-color:orangered;
+    position: absolute;
+    left: 6px;
+    margin-top: -8px;
+}
+h5{
+    color: orangered;
+    margin-left: 31px;
+    margin-top: 21px;
+    margin-left: 53px;
+    font-size: 25px;
+}
